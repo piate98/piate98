@@ -1,13 +1,12 @@
 ### Hi there 👋
 
- I'm a passionate front-end developer👨🏽‍💻 with experience in building responsive and user-friendly web applications.
- I'm proficient in HTML, CSS, JavaScript, and front-end frameworks like React.
+ a Data Engineer passionate about building scalable data pipelines, transforming raw data into actionable insights, and solving complex problems with clean, efficient code.
 
-I enjoy working with design teams to ensure that the user experience is seamless, and the website is visually appealing. 
-I'm also familiar with version control systems like Git and use it regularly to collaborate with other developers.
+🔧 I work with tools like Python, SQL, and cloud platforms (AWS/GCP/Azure) to design data workflows that power analytics and machine learning.
 
-Check out my GitHub repositories to see some of my recent projects 
-and feel free to reach out if you have any questions or would like to collaborate on a project⚒️!
+📊 I’m especially interested in data architecture, real-time processing, and automation.
+
+🚀 Currently pursuing an M.Sc. in Automation and Robotics at TU Dortmund 
 
 <!--
 **piate98/piate98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
