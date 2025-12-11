@@ -1,12 +1,19 @@
 ### Hi there 👋
+# 🌟 Kevin Piate — Data Scientist & Machine Learning Engineer
 
- a Data Engineer passionate about building scalable data pipelines, transforming raw data into actionable insights, and solving complex problems with clean, efficient code.
+* 📍 Dortmund, Germany
+* 🎓 MSc Automation & Robotics (TU Dortmund)
+* 💼 Aspiring Data Scientist / ML Engineer
+* 📧 piatekvn@gmail.com
 
-🔧 I work with tools like Python, SQL, and cloud platforms (AWS/GCP/Azure) to design data workflows that power analytics and machine learning.
+* 🔗 LinkedIn
+* Portfolio
+* Streamlit Apps
 
-📊 I’m especially interested in data architecture, real-time processing, and automation.
+## 🚀 About Me
 
-🚀 Currently pursuing an M.Sc. in Automation and Robotics at TU Dortmund 
+I am a Data Scientist passionate about machine learning, AI automation, and production-ready ML systems.
+I enjoy transforming raw data into meaningful insights and deploying ML models as real, usable applications.
 
 <!--
 **piate98/piate98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
