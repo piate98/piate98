@@ -3,7 +3,7 @@
 
 * 📍 Dortmund, Germany
 * 🎓 MSc Automation & Robotics (TU Dortmund)
-* 💼 Aspiring Data Scientist / ML Engineer
+* 💼 Data Scientist / ML Engineer
 * 📧 piatekvn@gmail.com
 
 * 🔗 LinkedIn
